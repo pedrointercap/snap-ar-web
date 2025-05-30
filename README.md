@@ -8,4 +8,4 @@ This POC is meant to render a SnapAR Lens, interact with, record and take a snap
 - [x] Record and download a video
 - [x] Snapshot the camera
 - [ ] Embed the page in a shopify page
-- [ ] Broadcast camera content to OBS or external sources
+- [x] Broadcast camera content to OBS or external sources
