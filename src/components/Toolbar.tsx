@@ -3,7 +3,7 @@ import SnapshotButton from "./SnapshotButton";
 
 const Toolbar = () => {
   return (
-    <div className="p-4 flex">
+    <div className="pt-4 flex">
       <RecordButton />
       <SnapshotButton />
     </div>
